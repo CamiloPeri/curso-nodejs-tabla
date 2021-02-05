@@ -1,5 +1,7 @@
 # notas
 
+Primer programa en node
+
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
